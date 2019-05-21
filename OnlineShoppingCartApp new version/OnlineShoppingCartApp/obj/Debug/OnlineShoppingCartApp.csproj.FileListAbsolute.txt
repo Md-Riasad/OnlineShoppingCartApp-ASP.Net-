@@ -1,0 +1,81 @@
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\csc.exe
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\vbc.exe
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll.config
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.pdb
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.csprojResolveAssemblyReference.cache
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.pdb
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\csc.exe
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\vbc.exe
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll.config
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.pdb
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.dll
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.pdb
+F:\Coding\C# Asp Dot net\Pro Project\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.csprojResolveAssemblyReference.cache
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\csc.exe
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\vbc.exe
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.pdb
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.csprojResolveAssemblyReference.cache
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.dll
+C:\Users\RIASAD RAHMAN\Desktop\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.pdb
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\csc.exe
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\System.Collections.Immutable.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\vbc.exe
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\roslyn\VBCSCompiler.exe.config
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll.config
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\OnlineShoppingCartApp.pdb
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.csprojAssemblyReference.cache
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.csproj.CoreCompileInputs.cache
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.csproj.CopyComplete
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.dll
+E:\411\OnlineShoppingCartApp new version\OnlineShoppingCartApp\obj\Debug\OnlineShoppingCartApp.pdb
